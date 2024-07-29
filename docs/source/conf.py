@@ -32,7 +32,7 @@ exclude_patterns = []
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 pygments_style = "sphinx"
-html_theme = "pydata_sphinx_theme"
+html_theme = "furo"
 
 html_static_path = ['_static']
 
