@@ -1,18 +1,18 @@
 .. universityportal documentation master file, created by
-   sphinx-quickstart on Fri Jul 21 12:40:57 2023.
+   sphinx-quickstart on Mon Jul 29 13:29:59 2024.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-University of **Stack** Documentation
-=====================================
+Welcome to universityportal's documentation!
+============================================
 
-Welcome to our University of **Stack** Documentation Portal. This Portal provides Students with the following Facilities as listed below.
+Welcome to the student portal documentation. This documentation will guide you through the process of setting up the student portal. The student portal is a web application that allows students to register and retrieve their data.
 
-* Welcome Page
+* Welcome page
 * Signup
 * Login
-* Register Student Data
-* Retrieve Student Data
+* Register student data
+* Retrieve student data
 
 .. toctree::
    :maxdepth: 2
@@ -20,6 +20,8 @@ Welcome to our University of **Stack** Documentation Portal. This Portal provide
 
    installation
    api
+
+
 
 Indices and tables
 ==================
